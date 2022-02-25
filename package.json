@@ -1,6 +1,6 @@
 {
   "name": "jsonform_custom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Changed styles for using with bootstrap5",
   "main": "./lib/jsonform.js",
   "repository": "https://github.com/val-ilyukh/jsonform",
